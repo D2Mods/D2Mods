@@ -4,16 +4,6 @@
   <p>
     <a href="https://h6rd.github.io/Dota2PornFxWeb">
       <img src="https://custom-icon-badges.demolab.com/badge/Website-404040?style=for-the-badge&logo=globe&logoColor=white" alt="Website">
-    </a>
-    <a href="https://d2pfxwiki.pages.dev/">
-      <img src="https://custom-icon-badges.demolab.com/badge/Wiki-404040?style=for-the-badge&logo=globe&logoColor=white" alt="Wiki">
-    </a>
-    <a href="https://t.me/dota2pornfx">
-      <img src="https://img.shields.io/badge/Telegram-2d87ad?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://discord.com/invite/PBvG8D9MxT">
-      <img src="https://img.shields.io/badge/Discord-5e78d5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
   </p>
 </div>
 
