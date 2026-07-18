@@ -2,7 +2,7 @@
 <h1>A fan project containing mods for Dota 2 customization</h1>
 
   <p>
-    <a href="https://h6rd.github.io/Dota2PornFxWeb">
+    <a href="">
       <img src="https://custom-icon-badges.demolab.com/badge/Website-404040?style=for-the-badge&logo=globe&logoColor=white" alt="Website">
   </p>
 </div>
