@@ -44,11 +44,11 @@ Steam\steamapps\common\dota 2 beta\game\dota_123\
 
 ## Credits
 
-Content is sourced from the Dota 2 modding community. Original sources include:
-
-- [**Dota2Changer**](https://dota2changer.com/)
-- [**MOR**](https://vk.com/amir4anmods)
-
+- **All mods, previews, guides and catalog data** come from the open-source
+  [**Dota2PornFxWeb**](https://github.com/h6rd/Dota2PornFxWeb) repository by [h6rd](https://github.com/h6rd)
+  and the Dota 2 modding community.
+  Each mod card in the app credits its author.
+- Community tools (VPKMerge, Background Changer, Compiler, ItemsFix) belong to their authors.
 ---
 
 ## Libraries Used
